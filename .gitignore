@@ -1,3 +1,3 @@
-# Ignore all SQlite databases
+# Ignore all SQlite databases (example from tealeaf git introduction)
 
-db/*.sqlite3
+# db/*.sqlite3
